@@ -1,0 +1,6 @@
+SEMINAR TIPS:
+Modify only the text in Orange Font with suitale data.
+change the color to black.
+Do not modify the font face, size, etc...
+Do not modify any other text in the pages.
+for other documentation use font face as "Times New Roman" Size 12
